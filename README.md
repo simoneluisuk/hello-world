@@ -3,10 +3,10 @@
 # hello-world
 My first ever repository
 
-Hi everyone i'm Simone 
-I love sushi <3
-My favourite colour is green
-I would like to become and engineer when I grow up.
+Hi everyone i'm Simone,
+I love sushi <3,
+My favourite colour is green,
+I would like to become and engineer when im older.
 
 Fold mountains occur at destrcutive plate margins
 First convection currents drive the Oceanic and Continental crust to converge.
