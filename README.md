@@ -1,4 +1,5 @@
 
+
 # hello-world
 My first ever repository
 
@@ -15,3 +16,10 @@ Therefore the lava rises as there is more in a fixed area and errupts from a com
 As the plates converge the material on landn gets crumpled and compresses causing fold mountians 
 As a result of the fold mountains an Oceanic trench forms in the area where the Oceanic crust subducted.
 GEOGRAPHY
+
+
+Case study: Japan Tohoko 2011 Tsunami
+March 11 2011
+9 richter scale
+Pacific plate was subducted under North american plate 
+
