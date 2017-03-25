@@ -30,4 +30,4 @@ No electricity in 6 million homes
 No running water in 1 million homes
 RESPONSES:
 100,000 Japanese soldiers
-
+Japanese Red Cross
