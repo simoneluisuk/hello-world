@@ -21,5 +21,13 @@ GEOGRAPHY
 Case study: Japan Tohoko 2011 Tsunami
 March 11 2011
 9 richter scale
-Pacific plate was subducted under North american plate 
+Pacific plate was subducted under North American plate 
+EFFECTS:
+200,000 people killed
+500km2 coast line destroyed
+Ruptured gas lines led to fires and ultimately explosions at the fukishima power plant -> this led to nuclear contamination
+No electricity in 6 million homes
+No running water in 1 million homes
+RESPONSES:
+100,000 Japanese soldiers
 
